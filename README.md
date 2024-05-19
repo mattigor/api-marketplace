@@ -4,7 +4,7 @@
 
 ## Sobre o projeto
 
-Construção de uma API de Marketplace com o objetivo de iniciar meus estudos em back-end.
+Construção de uma API de Marketplace com o objetivo de aprofundar meus estudos em back-end.
 
 ## Pré-requisitos
 
