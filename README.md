@@ -8,9 +8,9 @@ Construção de uma API de Marketplace com o objetivo de iniciar meus estudos em
 
 ## Pré-requisitos
 
-- Qualquer ferramenta de teste em HTML e CSS
+### Ferramentas de teste e algum ambiente de desenvolvimento
 
-  - [CodePen](https://codepen.io/)
+  - [Insomnia](https://insomnia.rest/download)
   - [Sublime Text](https://www.sublimetext.com/)
   - [Visual Studio Code](https://code.visualstudio.com/)
 
